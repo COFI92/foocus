@@ -1,5 +1,5 @@
 {
-    "default_model": "animaPencilXL_v100.safetensors",
+    "default_model": "autismmixSDXL_autismmixPony.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,9 +38,16 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "animaPencilXL_v100.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/animaPencilXL_v100.safetensors"
+        "autismmixSDXL_autismmixPony.safetensors": "https://huggingface.co/Toc/toc/resolve/main/models/autismmixSDXL_autismmixPony.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "MeMaXL_V2.safetensors": "https://huggingface.co/Toc/toc/resolve/main/xl/MeMaXL_V2.safetensors"
+        "morgiana_ponyxl.safetensors": "https://civitai.com/api/download/models/339479?type=Model&format=SafeTensor"
+        "nagatoro_hayase_pony_ver1.safetensors": "https://civitai.com/api/download/models/378369?type=Model&format=SafeTensor"
+        "YorumiRenaXL-18.safetensors": "https://civitai.com/api/download/models/378369?type=Model&format=SafeTensor"
+        "Landidzu-10.safetensors": "https://civitai.com/api/download/models/378369?type=Model&format=SafeTensor"
+        "CHAR-NakiriAyamePonyXL.safetensors": "https://civitai.com/api/download/models/378369?type=Model&format=SafeTensor"
+    },
     "previous_default_models": []
 }
